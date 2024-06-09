@@ -1,6 +1,9 @@
 # hyprland-dotfiles
 ## cyberia
 Configs for my ThinkPad T430 running Arch Linux
+![20240521_22:45:26_screenshot](https://github.com/yazoink/hyprland-dotfiles/assets/98802603/ce41831c-c825-40db-9420-7536949fd3b5)
+
+
 
 ## fluoride
 Configs for my PC running Arch Linux
