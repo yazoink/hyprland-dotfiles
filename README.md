@@ -1,6 +1,6 @@
 # hyprland-dotfiles
-GTK theme: [Gruvbox-Dark-BL-LB](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) modified to [fix GTK2](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme/issues/48)
-Icon theme: [Gruvbox-Plus-Dark](https://github.com/SylEleuth/gruvbox-plus-icon-pack)
+**GTK theme**: [Gruvbox-Dark-BL-LB](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) modified to [fix GTK2](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme/issues/48)     
+**Icon theme**: [Gruvbox-Plus-Dark](https://github.com/SylEleuth/gruvbox-plus-icon-pack)
 
 ## cyberia
 Configs for my ThinkPad T430 running Arch Linux
